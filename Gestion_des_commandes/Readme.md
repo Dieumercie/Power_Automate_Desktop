@@ -80,6 +80,6 @@ ID	Nom_Fournisseur	Article	Quantité	Date_de_Reception	Priorité
 
 
 <img width="1340" height="703" alt="Image" src="https://github.com/user-attachments/assets/fadb3325-8ae6-48f9-a20e-e74ad0c8b3f0" />
-
 <img width="1368" height="752" alt="Image" src="https://github.com/user-attachments/assets/9f49da6c-c4f4-4d58-839d-58572f1d5c0c" />
+<img width="1412" height="785" alt="Image" src="https://github.com/user-attachments/assets/ffeca812-5481-45ca-ba00-5fa2534109d2" />
 
