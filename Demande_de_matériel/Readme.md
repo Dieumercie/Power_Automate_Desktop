@@ -54,6 +54,12 @@ E-mail
 
         Supprimer le PDF temporaire
 
+<img width="1255" height="761" alt="Image" src="https://github.com/user-attachments/assets/deec5475-3ef8-464c-bbc8-1b2087981414" />
+
+<img width="1410" height="750" alt="Image" src="https://github.com/user-attachments/assets/29489b52-045c-42e8-87b5-32f2ca01b953" />
+
+<img width="1351" height="813" alt="Image" src="https://github.com/user-attachments/assets/d8b9fcb0-dff5-48e0-9cd3-481a53ae13c2" />
+
 
 
 
