@@ -2,7 +2,7 @@
 
 ## 🎯 Objectif
 
-Lire les e-mails reçus dans Outlook, télécharger les pièces jointes PDF contenant des demandes de matériel, en extrait les informations, et les enregistrer dans un fichier Excel.
+Lire les e-mails reçus dans Outlook, télécharger les pièces jointes PDF contenant des demandes de matériel, en extraire les informations, et les enregistrer dans un fichier Excel.
 
 ## 📌 Contexte professionnel fictif
 
